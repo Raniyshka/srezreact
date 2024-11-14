@@ -1,0 +1,14 @@
+.btn{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.btn:hover{
+    color: brown;
+}
+
+.meAuto{
+    display: flex;
+    gap: 20px;
+}

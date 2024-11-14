@@ -1,0 +1,37 @@
+.cards{
+    display: flex;
+    gap: 50px;
+    margin: 50px;
+    flex-wrap: wrap;
+}
+
+h2{
+    margin: 50px;
+}
+
+.categories{
+    display: flex;
+    gap: 20px;
+    margin: 0 50px 20px;
+}
+
+.categories button{
+    background-color: burlywood;
+    border: 2px solid burlywood;
+    border-radius: 30px;
+    color: white;
+    padding: 5px 10px;
+}
+
+.categories button:hover{
+    background-color: transparent;
+    color: burlywood;
+}
+
+.sort{
+    margin: 0 50px 20px;
+}
+
+.searchSort{
+    margin: 0 50px 20px;
+}

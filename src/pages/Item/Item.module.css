@@ -1,0 +1,38 @@
+.item{
+    width: '18rem';
+}
+
+.itemImg{
+    width: 250px;
+    height: 300px;
+}
+
+.desc{
+    width: 200px;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons .link{
+    text-decoration: none;
+    color: brown;
+    font-weight: 600;
+}
+
+.buttons .link:hover{
+    color: rgb(16, 142, 142);
+}
+
+.buttons button{
+    background-color: burlywood;
+    color: white;
+    border: 2px solid burlywood;
+}
+
+.buttons button:hover{
+    background-color: transparent;
+    color: burlywood;
+}

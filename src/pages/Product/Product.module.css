@@ -1,0 +1,29 @@
+.product{
+    margin: 50px;
+}
+
+.product img{
+    width: 300px;
+}
+
+.info{
+    margin-top: 50px;
+    display: flex;
+    gap: 100px;
+}
+
+.price{
+    color: burlywood;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.infoDannie{
+    display: flex;
+    flex-direction: column;
+}
+
+.desc{
+    width: 700px;
+
+}
